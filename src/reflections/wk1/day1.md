@@ -9,3 +9,5 @@ In your own words, why do we use Git?
 2. What is the difference between Git and GitHub
 
 3. Complete Week 1 Vocabulary
+
+extensions
