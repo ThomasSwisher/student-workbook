@@ -1,3 +1,11 @@
-#Day 1 - Intro to Codeworks
+# Day 1 - Daily Journal
+Read Building Blocks Of Web Development > GIT 101 and answer the following questions
 
-#day2 - 
+## Daily Journal
+In your own words, why do we use Git?
+
+1. What are the benefits of having multiple branches?
+
+2. What is the difference between Git and GitHub
+
+3. Complete Week 1 Vocabulary
