@@ -1,4 +1,4 @@
-# Day 1 - Daily Journal
+# Day 1 - Welcome To Codeworks
 Read Building Blocks Of Web Development > GIT 101 and answer the following questions
 
 ## Daily Journal

@@ -1,4 +1,4 @@
-# Day 2 Daily Journal
+# Day 2 Review of HTML/CSS
 Read Building Blocks Of Web Development > CSS and answer the following questions
 
 ## Daily Journal
