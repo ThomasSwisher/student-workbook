@@ -10,6 +10,6 @@ Having multiple branches allows multiple people to work on the same project with
 
 2. What is the difference between Git and GitHub?
 
-GitHub is a hosting platform for storing software. Git is the sytem used for version control and sharing code within that system.
+GitHub is a hosting platform for storing software on the cloud. Git is the local version on your computer.
 
 3. Complete Week 1 Vocabulary
