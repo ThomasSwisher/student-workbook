@@ -11,4 +11,5 @@ It is a selector that you add to a class that ads a built in function. (hover, l
 Give you the ability to override some css rules without affecting others. 
 
 3. What problems do you think you could run into if you over-utilized the !important feature? 
+
 Later when making changes it can cause problems.
