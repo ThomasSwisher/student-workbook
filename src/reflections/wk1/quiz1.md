@@ -3,7 +3,7 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-change directory
+change directory = to move from one directory to another
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
@@ -65,7 +65,7 @@ ol, ul, dl
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-diplay: flex; enables the sizing of all direct chidleren of a parent.
+diplay: flex; enables the sizing of all direct chidren of a parent.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
