@@ -10,7 +10,7 @@ Parameters are used to define it where arguments is calling the function.
 
 
 What are higher order functions? Can you provide an example?
-When a function accepts another as a parameter.
+When a function accepts another an argument.
 
 # Fireside
 Helpful Tools Tuesday
