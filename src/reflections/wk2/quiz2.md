@@ -13,7 +13,11 @@ Reusable set of statements used to accomplish a task or calculate a value.
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+S - Single-responsiblity Principle
+O - Open-closed Principle
+L - Liskov Substitution Principle
+I - Interface Segregation Principle
+D - Dependency Inversion Principle
 ```
 **4.** Given this array: 
 ```js
