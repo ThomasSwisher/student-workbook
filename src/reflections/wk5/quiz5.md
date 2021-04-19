@@ -40,8 +40,6 @@ let Schema = ________.Schema;
 ```
 mongoose / 'mongoose'
 mongoose
-import mongoode from "mongoose"
-let Schema = mongoose.Schema;
 
 ```
 **7.** What is middleware?
