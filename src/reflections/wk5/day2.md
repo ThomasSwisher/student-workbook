@@ -14,3 +14,5 @@ Embedding is nice because it is more effecient to retrieve information. Traditio
 3. What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 
 How the data going to be accessed and used. For example on a popular page if the comments are left open and generate large amounts of responses the database can grow quickly. In this case we wouldn't want the comments directly load when the page loads. This could greatly affect a pages load speed and user experience.  
+
+https://thomasswisher.github.io/spring21-gregslist-mvc/
