@@ -10,3 +10,5 @@ CreatorId to create relationship between creatorId and schema of _idproperty on 
 3. How do you search by a virtual properties value?
 
 ?
+
+Getting ready for hackathon no afternoon project. 
